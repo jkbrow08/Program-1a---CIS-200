@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Prog1A\Prog1A\bin\Debug\Prog1A.exe
+G:\Prog1A\Prog1A\bin\Debug\Prog1A.pdb
+G:\Prog1A\Prog1A\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Prog1A\Prog1A\obj\x86\Debug\Prog1A.exe
+G:\Prog1A\Prog1A\obj\x86\Debug\Prog1A.pdb

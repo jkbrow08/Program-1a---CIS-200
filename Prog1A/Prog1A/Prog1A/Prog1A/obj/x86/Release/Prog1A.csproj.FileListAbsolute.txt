@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\bin\Release\Prog1A.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\bin\Release\Prog1A.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\obj\x86\Release\Prog1A.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prog1A\Prog1A\obj\x86\Release\Prog1A.pdb
+G:\Prog1A\Prog1A\obj\x86\Release\Prog1A.exe
+G:\Prog1A\Prog1A\obj\x86\Release\Prog1A.pdb
+E:\Prog1A\Prog1A\obj\x86\Release\Prog1A.exe
+E:\Prog1A\Prog1A\obj\x86\Release\Prog1A.pdb
+E:\Prog1A\Prog1A\bin\Release\Prog1A.exe
+E:\Prog1A\Prog1A\bin\Release\Prog1A.pdb
+E:\Prog1A\Prog1A\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Prog1A\Prog1A\bin\Release\Prog1A.exe
+G:\Prog1A\Prog1A\bin\Release\Prog1A.pdb
+G:\Prog1A\Prog1A\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prog1A\Prog1A\Prog1A\obj\x86\Release\Prog1A.exe
+C:\Users\Admin\Desktop\Prog1A\Prog1A\Prog1A\obj\x86\Release\Prog1A.pdb
+C:\Users\Admin\Desktop\Prog1A\Prog1A\Prog1A\bin\Release\Prog1A.exe
+C:\Users\Admin\Desktop\Prog1A\Prog1A\Prog1A\bin\Release\Prog1A.pdb
+C:\Users\Admin\Desktop\Prog1A\Prog1A\Prog1A\obj\x86\Release\ResolveAssemblyReference.cache
